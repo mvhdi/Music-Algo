@@ -1,2 +1,2 @@
 # Music-Algo
-Music created using the chucK programming language 
+Music & sounds created using the chucK programming language 
